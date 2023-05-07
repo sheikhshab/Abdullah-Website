@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Eurostile';
+    src: url(/eurostile-font/eurostile.TTF);
+}
